@@ -237,3 +237,6 @@ This repository serves as the official landing page for Live for Speed. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Live for Speed today!**
+
+---
+**Last updated:** 2026-09-08 14:49:50 UTC
