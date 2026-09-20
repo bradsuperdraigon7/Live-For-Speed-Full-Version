@@ -239,4 +239,4 @@ This repository serves as the official landing page for Live for Speed. The soft
 **Get the most recent version of Live for Speed today!**
 
 ---
-**Last updated:** 2026-09-19 23:50:36 UTC
+**Last updated:** 2026-09-20 02:26:57 UTC
